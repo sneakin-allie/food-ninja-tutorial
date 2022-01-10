@@ -1,6 +1,6 @@
 Tailwind CSS Practice
 
-After reading the Tailwind CSS documentation and playing with some examples, I wanted to create a website to put it all together. I watched The Net Ninja's Tailwind tutorials on YouTube and created the recipe website along with him. Building this site allowed me to practice:
+After reading the Tailwind CSS documentation and playing with some examples, I wanted to create a webpage to put it all together. I watched The Net Ninja's Tailwind tutorials on YouTube and created a simple recipe webpage along with him. Building this page allowed me to practice:
 
 1. Intro & Setup
 2. HTML Template
@@ -19,3 +19,5 @@ After reading the Tailwind CSS documentation and playing with some examples, I w
 15. Hover Effects
 16. Responsive Navigation
 17. Transitions
+
+It was built using Visual Studio Code, Tailwind CSS, HTML, and icons from heroicons.
