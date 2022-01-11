@@ -18,6 +18,7 @@ After reading the Tailwind CSS documentation and playing with some examples, I w
 14. Icons
 15. Hover Effects
 16. Responsive Navigation
-17. Transitions
+17. Responsive Navigation (part 2)
+18. Transitions
 
-It was built using Visual Studio Code, Tailwind CSS, HTML, and icons from heroicons.
+It was built in Visual Studio Code using Tailwind CSS, HTML, JavaScript, and icons from heroicons.
